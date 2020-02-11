@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Lun Du"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "lun.png"
+  bio              : "Researcher at Microsoft Research"
   location         : "Beijing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=zh-CN"
   email            : "lun.du@microsoft.com"
-  researchgate     :  "https://www.researchgate.net/profile/Lun_Du3"
+  researchgate     : "https://www.researchgate.net/profile/Lun_Du3"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lun-du-ab00b6135"
   orcid            : "https://orcid.org/0000-0002-7625-0650"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  csdn             : ""
 
 
 # Reading Files
