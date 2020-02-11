@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lun Du / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lun Du"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lun Du"
-  avatar           : "lun.png"
+  avatar           : "pro.png"
   bio              : "Researcher at Microsoft Research"
   location         : "Beijing, China"
   employer         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  csdn             : ""
+  csdn             : "https://blog.csdn.net/luke2834"
 
 
 # Reading Files
