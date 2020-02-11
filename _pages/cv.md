@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science (Honor College), Beijing University of Technology, 2016
+* M.S. in Computer Science, Peking University, 2019
 
 Work experience
 ======
@@ -54,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Comment]: <> (Service and leadership)
+[Comment]: <> (======)
+[Comment]: <> (* Currently signed in to 43 different slack teams)
